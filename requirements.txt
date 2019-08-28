@@ -1,0 +1,6 @@
+numpy
+pyyaml
+scikit-image
+tensorboardX
+torch
+torchvision
